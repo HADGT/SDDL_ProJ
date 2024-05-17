@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ThapCam.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Variables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ThapCam.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Variables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\victory bond.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\click.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\BomNo.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\beat.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\VHCENTB.TTF" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\winface.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\unmuted.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\Tiles.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\playingface.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\numbers.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\muted.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\mediumbgr.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\loseface.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\hardbgr.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\easybgr.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\backtomode.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\redmine.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\README.md" />
+    <None Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\MineSweeperLalala.layout" />
+    <None Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\domincopypaste.layout" />
+    <None Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\MineSweeperLalala.depend" />
+    <None Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\domincopypaste.depend" />
+    <None Include="..\..\..\..\Desktop\Bai-tap-lon-LTNC-main\Bai-tap-lon-LTNC-main\MineSweeperLalala.cbp" />
+  </ItemGroup>
+</Project>
